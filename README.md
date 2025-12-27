@@ -16,12 +16,12 @@
 
 <br>
 
-- 🎓 Systems Engineering Student at Universidad Internacional de las Américas (UIA)
-- 💻 Passionate Frontend Developer focused on creating beautiful web experiences
-- 🌱 Currently learning and improving my skills in Web Development
-- 🚀 Working on projects involving Database Design, Arduino Automation, and Enterprise Architecture
-- 📚 Love to learn new technologies and apply them in practical projects
-- 🎯 Goal: Build innovative solutions that make a difference
+-  Systems Engineering Student at Universidad Internacional de las Américas (UIA)
+-  Passionate Frontend Developer focused on creating beautiful web experiences
+-  Currently learning and improving my skills in Web Development
+-  Working on projects involving Database Design, Arduino Automation, and Enterprise Architecture
+-  Love to learn new technologies and apply them in practical projects
+-  Goal: Build innovative solutions that make a difference
 
 <br><br>
 

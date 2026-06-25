@@ -112,9 +112,7 @@
 <br>
 
 <li>
-<a href="matt20montoya@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Matth3wDev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
-</a>
+
 </li>
 
 </ul>

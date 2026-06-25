@@ -104,7 +104,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/tu-perfil" target="_blank">
+<a href="https://www.linkedin.com/in/matthew-montoya-flores-42b2203a1/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Matth3wDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -112,7 +112,7 @@
 <br>
 
 <li>
-<a href="mailto:tu-email@ejemplo.com" target="_blank">
+<a href="matt20montoya@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Matth3wDev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
 </a>
 </li>

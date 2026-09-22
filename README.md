@@ -35,7 +35,7 @@
 ```text
 🎓 Degree     : Systems Engineering
 🏫 University : UIA - Costa Rica
-💼 Role       : Frontend Developer
+💼 Role       : Full Stack 
 🌍 Location   : Costa Rica 🇨🇷
 🔭 Focus      : Web Dev & Software Engineering
 🌱 Learning   : C#, .NET Framework & More
